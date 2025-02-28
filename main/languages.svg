@@ -1,6 +1,7 @@
 <svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
     <rect width="100%" height="100%" fill="black"/>
-    <text x="50%" y="50%" font-size="40" text-anchor="middle" fill="red" font-family="Arial">
-        I'm a web developer, I also code Cybersecurity Tools, I code in HTML, C#, C++, CSS, XML, Kotlin, and JavaScript!
+    <text x="50%" y="50%" font-size="30" text-anchor="middle" fill="white" font-family="monospace">
+        <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+        I'm a web developer, I code mod menus, I code cybersecurity tools, and I reverse engineer
     </text>
 </svg>
