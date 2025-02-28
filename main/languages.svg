@@ -1,0 +1,6 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="black"/>
+    <text x="50%" y="50%" font-size="40" text-anchor="middle" fill="red" font-family="Arial">
+        I'm a web developer, I also code Cybersecurity Tools, I code in HTML, C#, C++, CSS, XML, Kotlin, and JavaScript!
+    </text>
+</svg>
